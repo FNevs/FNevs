@@ -17,13 +17,13 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 21 years old, currently living in Brazil. I have intermitade English and have experience with C, Python, Java ...
+  - 💬 I am 22 years old, currently living in Brazil. I have intermitade English and have experience with C, Python, Java ...
 
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies, playing games, and exploring robotics! I believe that our personal interests contribute to a more refined perception of things and problem-solving.
 </details>
 
 <!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](--)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_filipens/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-neves-82b909206/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
