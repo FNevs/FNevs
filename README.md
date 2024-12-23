@@ -19,7 +19,7 @@
 
   - 💬 I am 22 years old, currently living in Brazil. I am proficient in English, with experience in reading technical documentation and communicating with international teams. I have experience with C, Python, Java, and ROS2 (Robot Operating System).
     
-  - 📚 I am also a member of the Center for Research in Computer Architecture, Intelligent Systems, and Robotics (ACSO), where I conduct research on the application of artificial intelligence (AI) in robotics as part of the RoboCup@Home league through a scientific initiation program.
+  - 📚 I am also a member of the Center for Research in Computer Architecture, Intelligent Systems, and Robotics (ACSO) at UNEB (University of the State of Bahia), where I conduct research on the application of artificial intelligence (AI) in robotics as part of the RoboCup@Home league through a scientific initiation program.
     
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies, playing games, and exploring robotics! I believe that our personal interests contribute to a more refined perception of things and problem-solving.
 </details>
